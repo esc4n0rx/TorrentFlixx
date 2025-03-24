@@ -177,8 +177,8 @@ A interface é uma SPA (Single Page Application) simples, que se comunica com o 
 ## Considerações para Produção
 
 1. **Escalabilidade:**
-   - Para grande número de usuários, considere balanceamento de carga
-   - Para muitos torrents ativos, aumente os limites de recursos do servidor
+   - Para grande número de usuários, é recomendavel considerar balanceamento de carga
+   - Para muitos torrents ativos, aumente os limites de recursos do servidor,principalmente memoria ram
 
 2. **Segurança Adicional:**
    - Adicionar autenticação para uso público
