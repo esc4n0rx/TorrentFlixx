@@ -20,7 +20,7 @@ Aplicação Node.js para streaming de torrents sem download completo, com interf
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/torrent-streamer.git
+   git clone https://github.com/esc4n0rx/TorrentFlixx
    cd torrent-streamer
    ```
 
